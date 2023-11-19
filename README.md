@@ -24,4 +24,4 @@ I'm a passionate C++ developer with a strong interest in computer graphics, game
 - **Email**: [iovlev2@gmail.com]
 - **Portfolio**: [https://iovlev-cv.com/]
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[IovlevYuliy]&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=IovlevYuliy&show_icons=true)
