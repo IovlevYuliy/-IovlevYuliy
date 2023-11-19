@@ -5,7 +5,7 @@ I'm a passionate C++ developer with a strong interest in computer graphics, game
 
 ## My Skills
 - **Programming Languages**: Proficient in C++ and JavaScript, Familiar with Python and C#
-- **Frameworks & Tools**: STL, Boost, CMake, Git, Docker, Linux
+- **Frameworks & Tools**: STL, Boost, OpenGL, Three.js, CMake, Git, Docker, Linux
 - **Areas of Interest**: High-Performance Computing, Computer Graphics pipeline, Game Engine Development, Computer vision
 - **Languages**: Native in Russian, Advanced in English and Starter in Spanish
 
